@@ -43,11 +43,8 @@
 
     <script src="assets/static/js/initTheme.js"></script>
     <script src="assets/static/js/components/dark.js"></script>
-
     <!-- library untuk membuat scroll menjadi lebih halus -->
     <script src="assets/extensions/perfect-scrollbar/perfect-scrollbar.min.js"></script>
-
-
     <script src="assets/compiled/js/app.js"></script>
 
 
